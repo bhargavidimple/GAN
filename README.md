@@ -49,3 +49,5 @@ The GAN consists of two primary components:
   - Output: Probability score (real or fake)
   - Layers: Convolutional layers, Flatten, Dense layers
 
+
+###Note:Need to increase the epochs for more accuracy 
